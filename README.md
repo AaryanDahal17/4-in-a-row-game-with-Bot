@@ -1,4 +1,5 @@
 # 4 in a row game with bot
 
-To start to game
+To start the game
+<br/>
 type "./run.bat" in your terminal
