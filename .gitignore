@@ -11,3 +11,5 @@ _*
 # Binaries
 *.dll
 bin/
+libs/
+include/
