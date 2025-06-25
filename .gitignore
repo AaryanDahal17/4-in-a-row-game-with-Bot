@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+._*
+
+# Backup & hidden folders
+_* 
+
+# VSCode settings (optional if you don't want to share settings)
+.vscode/
+
+# Binaries
+*.dll
+bin/
