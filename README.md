@@ -1,9 +1,12 @@
-# 4 in a row game with bot
+# Connect-four AI game bot
 
 Make sure you have SDL2 downloaded
 <br/>
-To start the game
+To start the game and play against the bot,
 <br/>
-type "./run.bat" in your terminal
+Run the following command in the terminal.
+```bash
+./run.bat
+```
 <br/>
-Enjoy
+Enjoy!
